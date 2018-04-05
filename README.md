@@ -1,3 +1,3 @@
 # Michael Lenahan's blog
 
-<a href="blog/wiki">The blog is here</a>.
+<a href="https://github.com/michaellenahan/blog/wiki">The blog is here</a>.
